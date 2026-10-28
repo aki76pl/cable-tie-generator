@@ -6,7 +6,7 @@ Opaska to płaski pasek z rzędem oczek i grzybkowym kołkiem przy jednym końcu
 
 ## Pobieranie
 
-- **Windows:** gotowe pliki są w zakładce [Releases](../../releases): instalator `Generator Opasek Setup x.y.z.exe` albo wersja przenośna `GeneratorOpasek-x.y.z-portable.exe`, która nie wymaga instalacji.
+- **Windows:** gotowe pliki są w zakładce [Releases](../../releases): instalator `GeneratorOpasek-x.y.z-setup.exe` albo wersja przenośna `GeneratorOpasek-x.y.z-portable.exe`, która nie wymaga instalacji.
 - **Przeglądarka:** <https://aki76pl.github.io/cable-tie-generator/>
 
 > Aplikacja nie ma podpisu cyfrowego, więc przy pierwszym uruchomieniu Windows SmartScreen może wyświetlić ostrzeżenie. Kliknij „Więcej informacji” → „Uruchom mimo to”.
