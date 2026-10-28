@@ -1,7 +1,7 @@
 {
   "name": "cable-tie-generator",
   "productName": "Generator Opasek",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parametryczny generator opasek do kabli (STL) z podglądem 3D na żywo",
   "author": "aki76pl",
   "license": "SEE LICENSE IN LICENSE",
@@ -49,7 +49,17 @@
     },
     "portable": {
       "artifactName": "GeneratorOpasek-${version}-portable.exe"
-    }
+    },
+    "extraFiles": [
+      {
+        "from": "LICENSE",
+        "to": "LICENSE.txt"
+      },
+      {
+        "from": "NOTICE.md",
+        "to": "NOTICE.md"
+      }
+    ]
   },
   "devDependencies": {
     "electron": "44.9.1",
