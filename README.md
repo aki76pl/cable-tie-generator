@@ -47,6 +47,8 @@ Stos: Vite, Three.js (podgląd), manifold-3d (WASM, geometria), Electron + elect
 
 Nowe wydanie: `git tag v1.0.1 && git push --tags` — GitHub Actions zbuduje pliki .exe i dołączy je do Release.
 
-## Licencja
+## Prawa autorskie i licencja
 
-MIT
+Copyright © 2026 aki76pl. Kod jest udostępniony na licencji [MIT](LICENSE): możesz go używać, zmieniać i rozpowszechniać, także komercyjnie, pod warunkiem zachowania informacji o prawach autorskich i treści licencji.
+
+Wygenerowane pliki STL / 3MF możesz wykorzystywać bez ograniczeń. Inspiracje, źródła wymiarów i licencje użytych bibliotek opisuje plik [NOTICE.md](NOTICE.md).
